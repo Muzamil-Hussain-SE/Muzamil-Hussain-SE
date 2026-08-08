@@ -3,16 +3,16 @@ name: Generate Snake Game
 on:
   # Run automatically every 24 hours
   schedule:
-    
+
 cron: "0 0 * * *"
 
-# Allows you to manually trigger the animation generation at any time
+Allows you to manually trigger the animation generation at any time
 workflow_dispatch:
 
-# Run on every push to the main branch
+Run on every push to the main branch
 push:
   branches:
-  
+
 main
 
 
@@ -25,7 +25,7 @@ jobs:
 
     steps:
       # Generates a snake game from a github user contributions graph, output a svg animation
-      
+
 name: Generate github-contribution-grid-snake.svg
       uses: platane/snk/svg-only@v3
       with:
