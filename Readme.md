@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hola+soy+Muzamil+Hussain;Software+Engineer" alt="Typing SVG" />
+<div align="center"><img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+I+am+Muzamil+Hussain;Software+Engineer" alt="Typing SVG" />
 </div>
 # 💫 About Me:
 BSCS @ Sukkur IBA University <br>Game developer (Godot) <br>Frontend Web developer<br>Currently learning Cross Platform mobile application development with Flutter <br>Tech stack : C/C++, Dart, Python, HTML, CSS, JS <br>Cyber Security Enthusiastic <br>AI/ML
