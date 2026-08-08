@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+I+am+Muzamil+Hussain+Software Engr" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+I+am+Muzamil+Hussain+Software+Engr" alt="Typing SVG" />
 </div>
 
 # 💫 About Me:
