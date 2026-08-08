@@ -1,7 +1,7 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=22&duration=3500&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi+I+am+Muzamil+Hussain;Software+Engineer" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muzamil-Hussain-SE/Muzamil-Hussain-SE/output/github-contribution-grid-snake-dark.svg" alt="Muzamil's  Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Muzamil-Hussain-SE/Muzamil-Hussain-SE/output/github-contribution-grid-snake-dark.svg" alt="Muzamil's Contribution Snake" width="100%" />
 </div>
 # 💫 About Me:
 BSCS @ Sukkur IBA University <br>Game developer (Godot) <br>Frontend Web developer<br>Currently learning Cross Platform mobile application development with Flutter <br>Tech stack : C/C++, Dart, Python, HTML, CSS, JS <br>Cyber Security Enthusiastic <br>AI/ML
