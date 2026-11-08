@@ -88,7 +88,7 @@ const muzamil = {
 
 - [x] Learn the fundamentals of C / C++, Python and web development
 - [x] Build and ship games with Godot
-- [ ] Publish my first Flutter app 📱
+- [x] Publish my first Flutter app 📱
 - [ ] Go deeper into cyber security (CTFs, secure coding)
 - [ ] Build my first AI / ML project 🤖
 
