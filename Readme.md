@@ -7,7 +7,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muzamil-Hussain-SE&label=Profile%20Views&color=02569B&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Muzamil-Hussain-SE?style=for-the-badge&logo=github&color=02569B)
+
 
 </div>
 
